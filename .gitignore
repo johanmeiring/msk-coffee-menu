@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.env
+.DS_Store
+ci_iam_policy.json
+PRD.md
+infra/cdk.out/
+infra/cdk.context.json
